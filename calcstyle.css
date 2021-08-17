@@ -1,0 +1,28 @@
+*{
+    background-color:cyan;
+
+}
+
+.layout{
+    display: flex;
+   justify-content: center; 
+   padding:100px;
+   
+}
+
+.button{
+    width:100%;
+    height:20px;
+    background-color: chartreuse;
+}
+
+.inputvalue{
+    text-align: center;
+}
+
+.button-answer{
+    width:100%;
+    height:20px;
+    background-color: chartreuse;
+}
+
